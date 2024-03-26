@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(255, 229, 223);
+}
+.area {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+    text-align: center;
+    margin: 30px;
+}
+
+.search-area {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+    text-align: center;
+    margin: 30px;
+}
+.text {
+    text-align: center;
+}

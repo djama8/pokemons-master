@@ -1,0 +1,13 @@
+.items {
+    width: 220px;
+    
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    background-color: rgb(250, 191, 164);
+}
+
+.items:hover {
+   
+    background-color: rgb(247, 162, 123);
+}
